@@ -1,8 +1,10 @@
 ﻿#include <iostream>
 #include <fstream>
 #include <string>
+#include "raylib/raylib/include/raylib.h"
 
 using namespace std;
+
 
 bool LoggingIn() {
 	string username, password, user, pass;
@@ -90,5 +92,7 @@ int main() {
 		Register(choice, username, password);
 	}
 
+	
+		
 }
 

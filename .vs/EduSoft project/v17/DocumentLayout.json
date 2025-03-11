@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\leyah\\source\\repos\\EduSoft project\\",
+  "WorkspaceRootPath": "D:\\All School Projects\\EduSoft project\\sprint-eschool-edusoft\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F3DDDC76-28E4-4FB1-B740-318BD6AD20C2}|EduSoft project.vcxproj|C:\\Users\\leyah\\source\\repos\\EduSoft project\\EduSoft project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F3DDDC76-28E4-4FB1-B740-318BD6AD20C2}|EduSoft project.vcxproj|D:\\All School Projects\\EduSoft project\\sprint-eschool-edusoft\\EduSoft project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F3DDDC76-28E4-4FB1-B740-318BD6AD20C2}|EduSoft project.vcxproj|solutionrelative:EduSoft project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "EduSoft project.cpp",
-              "DocumentMoniker": "C:\\Users\\leyah\\source\\repos\\EduSoft project\\EduSoft project.cpp",
+              "DocumentMoniker": "D:\\All School Projects\\EduSoft project\\sprint-eschool-edusoft\\EduSoft project.cpp",
               "RelativeDocumentMoniker": "EduSoft project.cpp",
-              "ToolTip": "C:\\Users\\leyah\\source\\repos\\EduSoft project\\EduSoft project.cpp",
+              "ToolTip": "D:\\All School Projects\\EduSoft project\\sprint-eschool-edusoft\\EduSoft project.cpp",
               "RelativeToolTip": "EduSoft project.cpp",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAADkAAAASAAAA",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAEoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-11T08:56:01.927Z",
               "EditorCaption": ""
