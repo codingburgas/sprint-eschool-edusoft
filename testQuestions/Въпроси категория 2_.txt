@@ -1,162 +1,142 @@
-Въпроси 2 категория
-(Химия)
+Questions 2 category
+(Chemistry)
 
-1. Кой е химичният символ на кислорода?
+1. What is the chemical symbol for oxygen?
 A) O
 B) K
 C) C
 
-Правилен отговор: A) O
+Correct answer: A) O
 
-
-2. Коя е химичната формула на водата?
+2. What is the chemical formula for water?
 A) CO₂
 B) H₂O
 C) NaCl
 
-Правилен отговор: B) H₂O
+Correct answer: B) H₂O
 
+3. Which gas supports combustion?
+A) Nitrogen
+B) Carbon dioxide
+C) Oxygen
 
-3. Кой газ поддържа горенето?
-A) Азот
-B) Въглероден диоксид
-C) Кислород
+Correct answer: C) Oxygen
 
-Правилен отговор: C) Кислород
+4. What charge does an electron have?
+A) Positive
+B) Negative
+C) Neutral
 
+Correct answer: B) Negative
 
-4. Какъв заряд има електронът?
-A) Положителен
-B) Отрицателен
-C) Неутрален
+5. What is a chemical compound?
+A) A substance made up of two or more elements
+B) A pure chemical element
+C) A mechanical mixture
 
-Правилен отговор: B) Отрицателен
+Correct answer: A) A substance made up of two or more elements
 
+6. What is a molecule?
+A) The smallest particle of a substance that retains its properties
+B) A single atom
+C) A metal ion
 
-5. Какво е химично съединение?
-A) Вещество, съставено от два или повече елемента
-B) Чист химичен елемент
-C) Механична смес
+Correct answer: A) The smallest particle of a substance that retains its properties
 
-Правилен отговор: A) Вещество, съставено от два или повече елемента
+7. Which chemical element is essential in organic compounds?
+A) Hydrogen
+B) Oxygen
+C) Carbon
 
+Correct answer: C) Carbon
 
-6. Какво е молекула?
-A) Най-малката частица на едно вещество, която запазва свойствата му
-B) Отделен атом
-C) Метален йон
-
-Правилен отговор: A) Най-малката частица на едно вещество, която запазва свойствата му
-
-
-
-7. Кой химичен елемент е основен в органичните съединения?
-A) Водород
-B) Кислород
-C) Въглерод
-
-Правилен отговор: C) Въглерод
-
-
-8. Какво е pH на чистата вода?
+8. What is the pH of pure water?
 A) 0
 B) 7
 C) 14
 
-Правилен отговор: B) 7
+Correct answer: B) 7
 
+9. Which of the following elements is a noble gas?
+A) Helium
+B) Chlorine
+C) Calcium
 
-9. Кой от следните елемент е благороден газ?
-A) Хелий
-B) Хлор
-C) Калций
+Correct answer: A) Helium
 
-Правилен отговор: A) Хелий
+10. What is valency?
+A) The number of protons in an atom
+B) The ability of atoms to form chemical bonds
+C) The amount of energy in a molecule
 
+Correct answer: B) The ability of atoms to form chemical bonds
 
-10. Какво е валентност?
-A) Броят на протоните в атома
-B) Способността на атомите да образуват химични връзки
-C) Количеството енергия в молекулата
+11. Which chemical bond is the strongest?
+A) Ionic
+B) Hydrogen
+C) Covalent
 
-Правилен отговор: B) Способността на атомите да образуват химични връзки
+Correct answer: C) Covalent
 
-
-11. Коя химична връзка е най-силна?
-A) Йонна
-B) Водородна
-C) Ковалентна
-
-Правилен отговор: C) Ковалентна
-
-
-12. Какъв е химичният символ на натрия?
+12. What is the chemical symbol for sodium?
 A) N
 B) Na
 C) Ne
 
-Правилен отговор: B) Na
+Correct answer: B) Na
 
+13. What is the process of a liquid changing into a gas called?
+A) Freezing
+B) Evaporation
+C) Condensation
 
-13. Как се нарича процесът на преминаване на течност в газ?
-A) Замръзване
-B) Изпарение
-C) Кондензация
+Correct answer: B) Evaporation
 
-Правилен отговор: B) Изпарение
+14. What is the most abundant element in the universe?
+A) Carbon
+B) Hydrogen
+C) Oxygen
 
+Correct answer: B) Hydrogen
 
-14. Кой е най-разпространеният елемент във Вселената?
-A) Въглерод
-B) Водород
-C) Кислород
+15. What is a catalyst?
+A) A substance that slows down chemical reactions
+B) A substance that accelerates chemical reactions
+C) A substance that does not participate in chemical reactions
 
-Правилен отговор: B) Водород
+Correct answer: B) A substance that accelerates chemical reactions
 
-
-15. Какво представлява катализаторът?
-A) Вещество, което забавя химичните реакции
-B) Вещество, което ускорява химичните реакции
-C) Вещество, което не участва в химичните реакции
-
-Правилен отговор: B) Вещество, което ускорява химичните реакции
-
-
-16. Какъв химичен състав има трапезната сол?
+16. What is the chemical composition of table salt?
 A) NaCl
 B) HCl
 C) CO₂
 
-Правилен отговор: A) NaCl
+Correct answer: A) NaCl
 
+17. What is the process of decomposition of substances under the influence of electricity called?
+A) Distillation
+B) Electrolysis
+C) Fermentation
 
-17. Как се нарича процесът на разлагане на вещества под въздействието на електричество?
-A) Дестилация
-B) Електролиза
-C) Ферментация
+Correct answer: B) Electrolysis
 
-Правилен отговор: B) Електролиза
+18. What is an allotropic form of carbon?
+A) Different types of carbon compounds
+B) Different structural forms of elemental carbon
+C) A solution of carbon in water
 
+Correct answer: B) Different structural forms of elemental carbon
 
-18. Какво е алотропна форма на въглерода?
-A) Различни видове съединения на въглерода
-B) Различни структурни форми на елементарния въглерод
-C) Разтвор на въглерод във вода
+19. What is combustion?
+A) Slow reaction with release of heat
+B) Oxidation reaction with release of heat and light
+C) Process in which the amount of oxygen is reduced
 
-Правилен отговор: B) Различни структурни форми на елементарния въглерод
+Correct answer: B) Oxidation reaction with release of heat and light
 
-
-19. Какво е горене?
-A) Бавна реакция с отделяне на топлина
-B) Окислителна реакция с отделяне на топлина и светлина
-C) Процес, при който се намалява количеството кислород
-
-Правилен отговор: B) Окислителна реакция с отделяне на топлина и светлина
-
-
-20. Какъв е химичният символ на желязото?
+20. What is the chemical symbol for iron?
 A) J
 B) Fe
 C) Ir
 
-Правилен отговор: B) Fe
+Correct answer: B) Fe

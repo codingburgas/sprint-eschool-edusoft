@@ -1,163 +1,143 @@
-Въпроси 1 категория
-(Биология)
+Questions 1 category
+(Biology)
 
+1. What color is chlorophyll?
+A) Red
+B) Green
+C) Blue
 
-1. Какъв цвят е хлорофилът?
-A) Червен
-B) Зелен
-C) Син
+Correct answer: B) Green
 
-Правилен отговор: B) Зелен
+2. What is the process by which a plant produces glucose and oxygen called?
+A) Photosynthesis
+B) Respiration
+C) Fermentation
 
+Correct answer: A) Photosynthesis
 
-2.Как се нарича процесът, при който растенията произвеждат глюкоза и кислород?
-A) Фотосинтеза
-B) Дишане
-C) Ферментация
+3. Which organ controls thinking?
+A) Heart
+B) Liver
+C) Brain
 
-Правилен отговор: A) Фотосинтеза
+Correct answer: C) Brain
 
+4. What is the basic building block of proteins?
+A) Glucose
+B) Amino acids
+C) Lipids
 
-3. Кой орган контролира мисленето?
-A) Сърцето
-B) Черният дроб
-C) Мозъкът
+Correct answer: B) Amino acids
 
-Правилен отговор: C) Мозъкът
+5. Where is the heart located?
+A) In the head
+B) In the chest
+C) In the leg
 
+Correct answer: B) In the chest
 
-4. Коя е основната градивна единица на белтъците?
-A) Глюкоза
-B) Аминокиселини
-C) Липиди
+6. Which system in the body is responsible for transporting oxygen?
+A) Digestive system
+B) Respiratory system
+C) Circulatory system
 
-Правилен отговор: B) Аминокиселини
+Correct answer: C) Circulatory system
 
+7. Which organ is responsible for producing insulin?
+A) Liver
+B) Pancreas
+C) Heart
 
-5. Къде се намира сърцето?
-A) В главата
-B) В гърдите
-C) В крака
+Correct answer: B) Pancreas
 
-Правилен отговор: B) В гърдите
+8. Which organ purifies the blood?
+A) Kidneys
+B) Stomach
+C) Lungs
 
+Correct answer: A) Kidneys
 
-6. Коя система в организма отговаря за пренасянето на кислород?
-A) Храносмилателна система
-B) Дихателна система
-C) Кръвоносна система
+9. What helps us breathe?
+A) Lungs
+B) Eyes
+C) Nails
 
-Правилен отговор: C) Кръвоносна система
+Correct answer: A) Lungs
 
+10. What is the liquid part of blood called?
+A) Lymph
+B) Plasma
+C) Hemoglobin
 
-7. Кой орган отговаря за производството на инсулин?
-A) Черният дроб
-B) Задстомашната жлеза (панкреас)
-C) Сърцето
+Correct answer: B) Plasma
 
-Правилен отговор: B) Панкреас
+11. What does the special membrane contain?
+A) Proteins only
+B) Lipids only
+C) Proteins and lipids
 
+Correct answer: C) Proteins and lipids
 
-8. Кой орган пречиства кръвта?
-A) Бъбреците
-B) Стомахът
-C) Белите дробове
+12. Which of the following is NOT a type of blood vessel?
+A) Veins
+B) Arteries
+C) Alveoli
 
-Правилен отговор: A) Бъбреците
+Correct answer: C) Alveoli
 
+13. What helps us to sense touch?
+A) Hair
+B) Skin
+C) Teeth
 
-9. Какво ни помага да дишаме?
-A) Белите дробове
-B) Очите
-C) Ноктите
+Correct answer: B) Skin
 
-Правилен отговор: A) Белите дробове
+14. What is the main organ of the respiratory system?
+A) Lungs
+B) Liver
+C) Stomach
 
+Correct answer: A) Lungs
 
-10.Как се нарича течната част на кръвта?
-A) Лимфа
-B) Плазма
-C) Хемоглобин
+15. What makes up the skeleton?
+A) Bones
+B) Muscles
+C) Hair
 
-Правилен отговор: B) Плазма
+Correct answer: A) Bones
 
+16. Which organ in the human body produces bile?
+A) Liver
+B) Pancreas
+C) Kidneys
 
-11. Какво съдържа клетъчната мембрана?
-A) Само белтъци
-B) Само липиди
-C) Белтъци и липиди
+Correct answer: A) Liver
 
-Правилен отговор: C) Белтъци и липиди
+17. What organ is the stomach?
+A) Digestive
+B) Respiratory
+C) Nervous
 
+Correct answer: A) Digestive
 
-12. Кое от следните НЕ е вид кръвоносен съд?
-A) Вени
-B) Артерии
-C) Алвеоли
+18. What gives us energy?
+A) Food
+B) Water
+C) Air
 
-Правилен отговор: C) Алвеоли
+Correct answer: A) Food
 
+19. What is the main role of red blood cells?
+A) Protecting the body
+B) Transporting oxygen
+C) Producing hormones
 
-13. Какво ни помага да усещаме допир?
-A) Косата
-B) Кожата
-C) Зъбите
+Correct answer: B) Transporting oxygen
 
-Правилен отговор: B) Кожата
+20. Which of the following is NOT an organelle in the cell?
+A) Nucleus
+B) Lysosome
+C) Alveolus
 
-
-14. Кой е основният орган на дихателната система?
-A) Белите дробове
-B) Черният дроб
-C) Стомахът
-
-Правилен отговор: A) Белите дробове
-
-
-15. Какво образува скелета?
-A) Костите
-B) Мускулите
-C) Косата
-
-Правилен отговор: A) Костите
-
-
-16. Кой орган в човешкото тяло произвежда жлъчка?
-A) Черният дроб
-B) Панкреасът
-C) Бъбреците
-
-Правилен отговор: A) Черният дроб
-
-
-17. Какъв орган е стомахът?
-A) Храносмилателен
-B) Дихателен
-C) Нервен
-
-Правилен отговор: A) Храносмилателен
-
-
-18. Кое ни дава енергия?
-A) Храната
-B) Водата
-C) Въздухът
-
-Правилен отговор: A) Храната
-
-
-19. Каква е основната роля на червените кръвни клетки?
-A) Защита на организма
-B) Пренасяне на кислород
-C) Производство на хормони
-
-Правилен отговор: B) Пренасяне на кислород
-
-
-20. Кое от следните НЕ е органела в клетката?
-A) Ядро
-B) Лизозома
-C) Алвеола
-
-Правилен отговор: C) Алвеола
+Correct answer: C) Alveolus
 

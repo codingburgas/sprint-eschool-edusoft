@@ -1,161 +1,142 @@
-Въпроси 1 категория
-(Физика)
+Questions 1 category
+(Physics)
 
-1. Коя е основната мерна единица за дължина?
-A) Метр
-B) Килограм
-C) Секунда
+1. What is the basic unit of length?
+A) Meter
+B) Kilogram
+C) Second
 
-Правилен отговор: A) Метр
+Correct answer: A) Meter
 
+2. What is the basic unit of time?
+A) Hour
+B) Second
+C) Minute
 
-2. Коя е основната мерна единица за време?
-A) Час
-B) Секунда
-C) Минута
+Correct answer: B) Second
 
-Правилен отговор: B) Секунда
+3. Which physical quantity measures the number of oscillations in 1 second?
+A) Frequency
+B) Speed
+C) Time
 
+Correct answer: A) Frequency
 
-3. Коя физична величина измерва броя на трептенията за 1 секунда?
-A) Честота
-B) Скорост
-C) Време
+4. What is the unit of force?
+A) Newton (N)
+B) Joule (J)
+C) Pascal (Pa)
 
-Правилен отговор: A) Честота
+Correct answer: A) Newton (N)
 
+5. What is the name of the force that the Earth exerts on bodies?
+A) Elastic force
+B) Gravitational force
+C) Magnetic force
 
-4. Каква е мерната единица за сила?
-A) Нютон (N)
-B) Джаул (J)
-C) Паскал (Pa)
+Correct answer: B) Gravitational force
 
-Правилен отговор: A) Нютон (N)
+6. What is measured in amperes (A)?
+A) Voltage
+B) Current
+C) Resistance
 
+Correct answer: B) Current
 
-5. Как се нарича силата, която Земята оказва върху телата?
-A) Еластична сила
-B) Гравитационна сила
-C) Магнитна сила
+7. What is the unit of measurement for power?
+A) Joule (J)
+B) Newton (N)
+C) Watt (W)
 
-Правилен отговор: B) Гравитационна сила
+Correct answer: C) Watt (W)
 
+8. How is speed calculated?
+A) Distance ÷ Time
+B) Time × Distance
+C) Force × Mass
 
-6. Какво се измерва в ампери (A)?
-A) Напрежение
-B) Сила на тока
-C) Съпротивление
+Correct answer: A) Distance ÷ Time
 
-Правилен отговор: B) Сила на тока
+9. What is the basic unit of measurement for energy?
+A) Watt (W)
+B) Joule (J)
+C) Pascal (Pa)
 
+Correct answer: B) Joule (J)
 
-7. Каква е мерната единица за мощност?
-A) Джаул (J)
-B) Нютон (N)
-C) Ват (W)
+10. What is the conversion of energy from one form to another called?
+A) Diffusion
+B) Transformation
+C) Conversion
 
-Правилен отговор: C) Ват (W)
+Correct answer: C) Conversion
 
+11. What is electric current?
+A) Neutron motion
+B) Electron motion
+C) Proton motion
 
-8. Как се изчислява скоростта?
-A) Разстояние ÷ Време
-B) Време × Разстояние
-C) Сила × Масa
+Correct answer: B) Electron motion
 
-Правилен отговор: A) Разстояние ÷ Време
+12. Which law states that “force equals mass times acceleration”?
+A) Ohm’s Law
+B) Newton’s Second Law
+C) Pascal’s Law
 
+Correct answer: B) Newton’s Second Law
 
-9. Коя е основната мерна единица за енергия?
-A) Ват (W)
-B) Джаул (J)
-C) Паскал (Pa)
+13. Which device measures electric current?
+A) Voltmeter
+B) Ammeter
+C) Barometer
 
-Правилен отговор: B) Джаул (J)
+Correct answer: B) Ammeter
 
+14. What is measured in hertz (Hz)?
+A) Frequency
+B) Power
+C) Time
 
-10. Как се нарича преобразуването на енергия от един вид в друг?
-A) Дифузия
-B) Трансформация
-C) Конверсия
+Correct answer: A) Frequency
 
-Правилен отговор: C) Конверсия
-
-
-11. Какво е електрически ток?
-A) Движение на неутрони
-B) Движение на електрони
-C) Движение на протони
-
-Правилен отговор: B) Движение на електрони
-
-
-12. Кой закон гласи, че „силата е равна на масата по ускорението“?
-A) Закон на Ом
-B) Втори закон на Нютон
-C) Закон на Паскал
-
-Правилен отговор: B) Втори закон на Нютон
-
-
-13. Кое устройство измерва електрическия ток?
-A) Волтметър
-B) Амперметър
-C) Барометър
-
-Правилен отговор: B) Амперметър
-
-
-14. Какво се измерва в херци (Hz)?
-A) Честота
-B) Мощност
-C) Време
-
-Правилен отговор: A) Честота
-
-
-15. Какво е гравитационно ускорение на Земята?
+15. What is gravitational acceleration on Earth?
 A) 1 m/s²
 B) 9.8 m/s²
 C) 100 m/s²
 
-Правилен отговор: B) 9.8 m/s²
+Correct answer: B) 9.8 m/s²
 
+16. Which device measures atmospheric pressure?
+A) Barometer
+B) Thermometer
+C) Manometer
 
-16. Кое устройство измерва атмосферното налягане?
-A) Барометър
-B) Термометър
-C) Манометър
+Correct answer: A) Barometer
 
-Правилен отговор: A) Барометър
+17. What is the unit of measurement for pressure?
+A) Pascal (Pa)
+B) Newton (N)
+C) Watt (W)
 
+Correct answer: A) Pascal (Pa)
 
-17. Каква е мерната единица за налягане?
-A) Паскал (Pa)
-B) Нютон (N)
-C) Ват (W)
+18. What is refraction?
+A) Decomposition of light
+B) Refraction of light
+C) Reflection of light
 
-Правилен отговор: A) Паскал (Pa)
+Correct answer: B) Refraction of light
 
-
-18. Какво е рефракция?
-A) Разлагане на светлината
-B) Пречупване на светлината
-C) Отражение на светлината
-
-Правилен отговор: B) Пречупване на светлината
-
-
-19. Каква е скоростта на светлината във вакуум?
+19. What is the speed of light in a vacuum?
 A) 3 × 10⁸ m/s
 B) 300 m/s
-C) 30 000 m/s
+C) 30,000 m/s
 
-Правилен отговор: A) 3 × 10⁸ m/s
+Correct answer: A) 3 × 10⁸ m/s
 
+20. What is the main property of a magnet?
+A) It attracts metal objects
+B) It produces electricity
+C) It heats up when rubbed
 
-20. Какво е основното свойство на магнита?
-A) Привлича метални предмети
-B) Произвежда електричество
-C) Загрява се при триене
-
-Правилен отговор: A) Привлича метални предмети
+Correct answer: A) It attracts metal objects
