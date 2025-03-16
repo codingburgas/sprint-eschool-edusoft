@@ -133,7 +133,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="EduSoft project.cpp" />
+    <ClCompile Include="biologyExam.cpp" />
+    <ClCompile Include="chemistryExam.cpp" />
+    <ClCompile Include="physicsExam.cpp" />
+    <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="biologyExam.h" />
+    <ClInclude Include="chemistryExam.h" />
+    <ClInclude Include="physicsExam.h" />
+    <ClInclude Include="exams.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

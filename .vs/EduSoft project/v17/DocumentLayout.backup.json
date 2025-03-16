@@ -1,10 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\All School Projects\\EduSoft project\\sprint-eschool-edusoft\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\0\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F3DDDC76-28E4-4FB1-B740-318BD6AD20C2}|EduSoft project.vcxproj|D:\\All School Projects\\EduSoft project\\sprint-eschool-edusoft\\EduSoft project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F3DDDC76-28E4-4FB1-B740-318BD6AD20C2}|EduSoft project.vcxproj|solutionrelative:EduSoft project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F3DDDC76-28E4-4FB1-B740-318BD6AD20C2}|EduSoft project.vcxproj|C:\\Users\\User\\Desktop\\0\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3DDDC76-28E4-4FB1-B740-318BD6AD20C2}|EduSoft project.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DDDC76-28E4-4FB1-B740-318BD6AD20C2}|EduSoft project.vcxproj|C:\\Users\\User\\Desktop\\0\\exams.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3DDDC76-28E4-4FB1-B740-318BD6AD20C2}|EduSoft project.vcxproj|solutionrelative:exams.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DDDC76-28E4-4FB1-B740-318BD6AD20C2}|EduSoft project.vcxproj|C:\\Users\\User\\Desktop\\0\\physicsExam.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3DDDC76-28E4-4FB1-B740-318BD6AD20C2}|EduSoft project.vcxproj|solutionrelative:physicsExam.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DDDC76-28E4-4FB1-B740-318BD6AD20C2}|EduSoft project.vcxproj|C:\\Users\\User\\Desktop\\0\\chemistryExam.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3DDDC76-28E4-4FB1-B740-318BD6AD20C2}|EduSoft project.vcxproj|solutionrelative:chemistryExam.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DDDC76-28E4-4FB1-B740-318BD6AD20C2}|EduSoft project.vcxproj|C:\\Users\\User\\Desktop\\0\\biologyExam.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3DDDC76-28E4-4FB1-B740-318BD6AD20C2}|EduSoft project.vcxproj|solutionrelative:biologyExam.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DDDC76-28E4-4FB1-B740-318BD6AD20C2}|EduSoft project.vcxproj|C:\\Users\\User\\Desktop\\0\\physicsExam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3DDDC76-28E4-4FB1-B740-318BD6AD20C2}|EduSoft project.vcxproj|solutionrelative:physicsExam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DDDC76-28E4-4FB1-B740-318BD6AD20C2}|EduSoft project.vcxproj|C:\\Users\\User\\Desktop\\0\\chemistryExam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3DDDC76-28E4-4FB1-B740-318BD6AD20C2}|EduSoft project.vcxproj|solutionrelative:chemistryExam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DDDC76-28E4-4FB1-B740-318BD6AD20C2}|EduSoft project.vcxproj|C:\\Users\\User\\Desktop\\0\\biologyExam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3DDDC76-28E4-4FB1-B740-318BD6AD20C2}|EduSoft project.vcxproj|solutionrelative:biologyExam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +47,105 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EduSoft project.cpp",
-              "DocumentMoniker": "D:\\All School Projects\\EduSoft project\\sprint-eschool-edusoft\\EduSoft project.cpp",
-              "RelativeDocumentMoniker": "EduSoft project.cpp",
-              "ToolTip": "D:\\All School Projects\\EduSoft project\\sprint-eschool-edusoft\\EduSoft project.cpp",
-              "RelativeToolTip": "EduSoft project.cpp",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAAEoAAAAMAAAAAAAAAA==",
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\0\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\0\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-11T08:56:01.927Z",
+              "WhenOpened": "2025-03-16T18:51:31.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "physicsExam.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\0\\physicsExam.cpp",
+              "RelativeDocumentMoniker": "physicsExam.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\0\\physicsExam.cpp",
+              "RelativeToolTip": "physicsExam.cpp",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-16T18:38:16.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "chemistryExam.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\0\\chemistryExam.cpp",
+              "RelativeDocumentMoniker": "chemistryExam.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\0\\chemistryExam.cpp",
+              "RelativeToolTip": "chemistryExam.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-16T18:38:11.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "biologyExam.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\0\\biologyExam.cpp",
+              "RelativeDocumentMoniker": "biologyExam.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\0\\biologyExam.cpp",
+              "RelativeToolTip": "biologyExam.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-16T18:38:05.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "exams.h",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\0\\exams.h",
+              "RelativeDocumentMoniker": "exams.h",
+              "ToolTip": "C:\\Users\\User\\Desktop\\0\\exams.h",
+              "RelativeToolTip": "exams.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-16T18:24:42.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "physicsExam.h",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\0\\physicsExam.h",
+              "RelativeDocumentMoniker": "physicsExam.h",
+              "ToolTip": "C:\\Users\\User\\Desktop\\0\\physicsExam.h",
+              "RelativeToolTip": "physicsExam.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-16T18:24:37.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "chemistryExam.h",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\0\\chemistryExam.h",
+              "RelativeDocumentMoniker": "chemistryExam.h",
+              "ToolTip": "C:\\Users\\User\\Desktop\\0\\chemistryExam.h",
+              "RelativeToolTip": "chemistryExam.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-16T18:24:31.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "biologyExam.h",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\0\\biologyExam.h",
+              "RelativeDocumentMoniker": "biologyExam.h",
+              "ToolTip": "C:\\Users\\User\\Desktop\\0\\biologyExam.h",
+              "RelativeToolTip": "biologyExam.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-16T18:02:15.428Z",
               "EditorCaption": ""
             }
           ]
