@@ -1,4 +1,6 @@
-﻿  main.cpp
+﻿  physicsExam.cpp
+C:\Users\User\Desktop\0\physicsExam.cpp(32,39): warning C4566: character represented by universal-character-name '\u00B2' cannot be represented in the current code page (1251)
+C:\Users\User\Desktop\0\physicsExam.cpp(45,39): warning C4566: character represented by universal-character-name '\u00B2' cannot be represented in the current code page (1251)
   EduSoft project.vcxproj -> C:\Users\User\Desktop\0\x64\Debug\EduSoft project.exe
   C:\Users\User\Desktop\0\raylib\raylib\lib\raylib.dll
   1 File(s) copied

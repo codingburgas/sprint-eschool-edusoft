@@ -59,7 +59,7 @@ void physicsExam() {
     for (int i = 0; i < size; i++) {
         cout << "*******************************\n";
         cout << questions[i] << '\n';
-        cout << "*******************************\n";
+        cout << "*******************************\n"; 
         for (int j = 0; j < sizeof(options[i]) / sizeof(options[i][0]); j++) {
             cout << options[i][j] << '\n';
         }
