@@ -1,4 +1,19 @@
-﻿  EduSoft project.cpp
-  EduSoft project.vcxproj -> C:\Users\KRASI HP ED\Desktop\proekta\sprint-eschool-edusoft\x64\Debug\EduSoft project.exe
-  C:\Users\KRASI HP ED\Desktop\proekta\sprint-eschool-edusoft\raylib\raylib\lib\raylib.dll
+﻿  biology.cpp
+  chemistry.cpp
+  loggingIn.cpp
+  login.cpp
+  loginMenu.cpp
+  main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+  physics.cpp
+  register.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+  secondTestMenu.cpp
+  testMenu.cpp
+C:\Users\rober\School\Git\EduSoft\sprint-eschool-edusoft\testMenu.cpp(22,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\rober\School\Git\EduSoft\sprint-eschool-edusoft\testMenu.cpp(30,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\rober\School\Git\EduSoft\sprint-eschool-edusoft\testMenu.cpp(38,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  EduSoft project.vcxproj -> C:\Users\rober\School\Git\EduSoft\sprint-eschool-edusoft\x64\Debug\EduSoft project.exe
+  C:\Users\rober\School\Git\EduSoft\sprint-eschool-edusoft\raylib\raylib\lib\raylib.dll
   1 File(s) copied

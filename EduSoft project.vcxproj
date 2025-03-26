@@ -133,16 +133,28 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="biologyExam.cpp" />
-    <ClCompile Include="chemistryExam.cpp" />
-    <ClCompile Include="physicsExam.cpp" />
+    <ClCompile Include="biology.cpp" />
+    <ClCompile Include="chemistry.cpp" />
+    <ClCompile Include="loggingIn.cpp" />
+    <ClCompile Include="login.cpp" />
+    <ClCompile Include="loginMenu.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="physics.cpp" />
+    <ClCompile Include="register.cpp" />
+    <ClCompile Include="secondTestMenu.cpp" />
+    <ClCompile Include="testMenu.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="biologyExam.h" />
-    <ClInclude Include="chemistryExam.h" />
-    <ClInclude Include="physicsExam.h" />
-    <ClInclude Include="exams.h" />
+    <ClInclude Include="biology.h" />
+    <ClInclude Include="chemistry.h" />
+    <ClInclude Include="loggingIn.h" />
+    <ClInclude Include="login.h" />
+    <ClInclude Include="loginMenu.h" />
+    <ClInclude Include="physics.h" />
+    <ClInclude Include="register.h" />
+    <ClInclude Include="secondTestMenu.h" />
+    <ClInclude Include="testMenu.h" />
+    <ClInclude Include="userScore.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

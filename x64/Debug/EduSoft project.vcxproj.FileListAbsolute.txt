@@ -1,1 +1,2 @@
 C:\Users\KRASI HP ED\Desktop\proekta\sprint-eschool-edusoft\x64\Debug\EduSoft project.exe
+C:\Users\rober\School\Git\EduSoft\sprint-eschool-edusoft\x64\Debug\EduSoft project.exe
